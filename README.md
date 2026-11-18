@@ -6,3 +6,4 @@ Tổng hợp bài tập và mindmap của Session 13. Mỗi bài là một thư 
 
 - [Sự cố dời lịch khám về quá khứ](./doi-lich-kham-qua-khu/)
 - [Kiểm soát trạng thái lịch khám](./kiem-soat-trang-thai-lich-kham/)
+- [Kiểm soát và lưu lịch sử biến động giá thuốc](./lich-su-gia-thuoc/)
