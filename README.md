@@ -10,3 +10,4 @@ Tổng hợp bài tập và mindmap của Session 13. Mỗi bài là một thư 
 - [Chống trùng lịch bác sĩ](./chong-trung-lich-bac-si/)
 - [Tự động hóa ví trả trước](./vi-tra-truoc/)
 - [Tạo Trigger kiểm tra tính hợp lệ của ngày sinh](./trigger-kiem-tra-ngay-sinh/)
+- [Tối ưu hóa toàn vẹn dữ liệu và truy vết lịch sử với Trigger](./trigger-ton-kho-audit-log/)
